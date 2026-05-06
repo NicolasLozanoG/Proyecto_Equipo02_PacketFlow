@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.aed.packetflow.PacketFlowTest" time="0.123" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="25"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\nicol\.gemini\antigravity\scratch\PacketFlow\target\test-classes;C:\Users\nicol\.gemini\antigravity\scratch\PacketFlow\target\classes;C:\Users\nicol\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.2\junit-jupiter-api-5.9.2.jar;C:\Users\nicol\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\nicol\.m2\repository\org\junit\platform\junit-platform-commons\1.9.2\junit-platform-commons-1.9.2.jar;C:\Users\nicol\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\nicol\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.2\junit-jupiter-engine-5.9.2.jar;C:\Users\nicol\.m2\repository\org\junit\platform\junit-platform-engine\1.9.2\junit-platform-engine-1.9.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Montevideo"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="25"/>
+    <property name="user.country" value="UY"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Users\nicol\eclipse-workspace\ApiaMonitor\AlgoritmosYEstructuraDeDatos\src\openJdk-25\bin"/>
+    <property name="sun.java.command" value="C:\Users\nicol\AppData\Local\Temp\surefire7357801262623156404\surefirebooter-20260422182139614_3.jar C:\Users\nicol\AppData\Local\Temp\surefire7357801262623156404 2026-04-22T18-21-32_063-jvmRun1 surefire-20260422182139614_1tmp surefire_0-20260422182139614_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="test" value="com.aed.packetflow.PacketFlowTest"/>
+    <property name="surefire.test.class.path" value="C:\Users\nicol\.gemini\antigravity\scratch\PacketFlow\target\test-classes;C:\Users\nicol\.gemini\antigravity\scratch\PacketFlow\target\classes;C:\Users\nicol\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.2\junit-jupiter-api-5.9.2.jar;C:\Users\nicol\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\nicol\.m2\repository\org\junit\platform\junit-platform-commons\1.9.2\junit-platform-commons-1.9.2.jar;C:\Users\nicol\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\nicol\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.2\junit-jupiter-engine-5.9.2.jar;C:\Users\nicol\.m2\repository\org\junit\platform\junit-platform-engine\1.9.2\junit-platform-engine-1.9.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\nicol"/>
+    <property name="user.language" value="es"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2026-01-20"/>
+    <property name="java.home" value="C:\Users\nicol\eclipse-workspace\ApiaMonitor\AlgoritmosYEstructuraDeDatos\src\openJdk-25"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\nicol\.gemini\antigravity\scratch\PacketFlow"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\nicol\AppData\Local\Temp\surefire7357801262623156404\surefirebooter-20260422182139614_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="25.0.2+10-69"/>
+    <property name="user.name" value="nicol"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="maven.ext.class.path" value="C:\Users\nicol\.antigravity\extensions\oracle.oracle-java-25.1.0-universal\nbcode\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="localRepository" value="C:\Users\nicol\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\nicol\AppData\Local\Temp\"/>
+    <property name="java.version" value="25.0.2"/>
+    <property name="user.dir" value="C:\Users\nicol\.gemini\antigravity\scratch\PacketFlow"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Users\nicol\eclipse-workspace\ApiaMonitor\AlgoritmosYEstructuraDeDatos\src\openJdk-25\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\nicol\miniconda3\condabin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Git\cmd;C:\Program Files\doxygen\bin;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Users\nicol\miniconda3;C:\Users\nicol\miniconda3\Library\mingw-w64\bin;C:\Users\nicol\miniconda3\Library\usr\bin;C:\Users\nicol\miniconda3\Library\bin;C:\Users\nicol\miniconda3\Scripts;C:\Users\nicol\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\nicol\AppData\Local\Programs\Python\Python312\;C:\Users\nicol\AppData\Local\Programs\Python\Launcher\;C:\Users\nicol\AppData\Local\Microsoft\WindowsApps;C:\Users\nicol\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\nicol\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;c:\users\nicol\.local\bin;C:\Users\nicol\AppData\Local\Programs\Python\Launcher\;C:\Users\nicol\Desktop\ffmpeg\bin;C:\Users\nicol\.dotnet\tools;C:\Users\nicol\AppData\Local\GitHubDesktop\bin;C:\Users\nicol\AppData\Local\Programs\Antigravity\bin;C:\Users\nicol\AppData\Roaming\npm;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.0.2+10-69"/>
+    <property name="stdin.encoding" value="Cp1252"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="69.0"/>
+  </properties>
+  <testcase name="testDeleteMessage" classname="com.aed.packetflow.PacketFlowTest" time="0.057"/>
+  <testcase name="testNetworkCapacityLimit" classname="com.aed.packetflow.PacketFlowTest" time="0.006">
+    <system-out><![CDATA[Network capacity reached! Dropping packet 2 of message MSG2
+]]></system-out>
+  </testcase>
+  <testcase name="testSendMessageFragmentation" classname="com.aed.packetflow.PacketFlowTest" time="0.003"/>
+  <testcase name="testReceiveAndReconstruct" classname="com.aed.packetflow.PacketFlowTest" time="0.006"/>
+</testsuite>
