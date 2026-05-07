@@ -1,6 +1,3 @@
-# Proyecto_Equipo02_PacketFlow
-Proyecto PacketFlow
-
 # Informe de Proyecto: Packet Flow
 
 **Algoritmos y Estructuras de Datos - UCU**
